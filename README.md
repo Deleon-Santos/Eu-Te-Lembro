@@ -6,7 +6,7 @@
 ## Funcionalidades
 - Inserir uma mensagem de lembrete personalizada.
 - Selecionar o intervalo de tempo em minutos para ser notificado.
-- Minimiza a janela enquanto o temporizador está rodando.
+- Confirmar "OK" para minimiza a janela enquanto o temporizador está rodando.
 - Maximizar a janela apos o tempo para exibe a mensagem de lembrete.
 
 ## Tecnologias e Bibliotecas Utilizadas
